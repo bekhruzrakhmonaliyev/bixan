@@ -1,0 +1,57 @@
+@import url(https://avatars.mds.yandex.net/i?id=11e008ad2ba9a21c3cb80ca5c063a96a1002e3e3-11378374-images-thumbs&n=13);
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+.bosh{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://cdn.freelance.ru/img/portfolio/pics/00/34/89/3443052.jpg?mt=acc83ec9);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.bosh .box{
+    width: 80%;
+    height: 90%;
+    border: 1px solid rgb(66, 64, 64);
+    border-radius: 15px;
+    backdrop-filter: blur(20px);
+    padding: 20px 20px;
+    
+}
+.manzl{
+    width: 80%;
+    height: 90%;
+    border: 1px solid rgb(66, 64, 64);
+    border-radius: 15px;
+    backdrop-filter: blur(20px);
+    padding: 20px 20px;
+    
+
+}
+
+
+.box h3{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.box h5{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+.card-box{
+    width: 90%;
+    height: 80%;
+    margin-left: 30px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.card-section{
+    width: 25%;
+    height: 100%;
+}
